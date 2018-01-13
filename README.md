@@ -2,7 +2,7 @@
 
 ### Level one:
 Lectures |Arabic|English|French|Russian
----------|------------|----|---|---
+---------||-----------------------------------------------------------------------------------------------------------------------||
 Lecture 1||[pdf](https://xh0.github.io/ItPuCS/slides/Lecture1-en.pdf),[pptx](https://xh0.github.io/ItPuCS/slides/Lecture1-en.pptx)||
 Lecture 2||[pdf](https://xh0.github.io/ItPuCS/slides/Lecture2-en.pdf),[pptx](https://xh0.github.io/ItPuCS/slides/Lecture2-en.pptx)||
 Lecture 3||[pdf](https://xh0.github.io/ItPuCS/slides/Lecture3-en.pdf),[pptx](https://xh0.github.io/ItPuCS/slides/Lecture3-en.pptx)||
